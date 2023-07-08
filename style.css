@@ -1,0 +1,26 @@
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.travel_maindiv {
+    border: 1px;
+}
+.travel_maindiv img {
+    width: 100px;
+}
+.travel_maindiv h5 , .travel_maindiv p {
+    margin: 20px;
+}
+.movie_header {
+    font-size: 20px;
+    padding: 22px; 
+    border-radius: 33px;
+    margin-bottom: 25px;
+}
+.movie_header i {
+    float: right;
+}
+.movie_text span {
+    color: rgb(185, 142, 32);
+}
